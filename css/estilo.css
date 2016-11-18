@@ -1,0 +1,118 @@
+/*paleta
+color: #00b842; verde oscuro
+color: #6AE83A; verde claro
+color: #ffe71a; amarillo
+*/
+.txt-ver6ae8 {
+	color: #00b842;
+}
+.txt-amaffe7 {
+	color: #ffe71a;
+}
+
+
+/*paleta 2
+color: #C8F57A; verde claro
+color: #68BDEA; azul claro
+color: #014c45; azul oscuro
+*/
+.txt-verc8f5 {
+	color: #A6E637;
+}
+.txt-azul68bd {
+	color: #68BDEA; 
+}
+.txt-azul014c {
+	color: #014c45;
+}
+.bg-verc8f5 {
+	background-color: #A6E637;
+}
+.bg-azul68bd {
+	background-color: #68BDEA; 
+}
+.bg-azul014c {
+	background-color: #014c45;
+}
+body {
+	font-family: 'Raleway', sans-serif;
+}
+/*navegador*/
+nav {
+	/*font-family: 'Roboto', sans-serif !important;*/
+	right: 15px !important;
+	left: 15px !important;
+	border-bottom: none !important;
+	background-color: rgba(0,0,0,.8) !important;
+	padding-left: 20px;
+	padding-right: 20px;
+	
+}
+/*.navbar-default {
+	background-color: rgb(36,176,103) !important;	
+}*/
+nav a:hover{
+	color: #A6E637 !important;
+	font-size: 2.5em;
+}
+
+h1 {
+	
+	font-family: 'Raleway', sans-serif !important;
+	font-size: 10rem !important;
+
+	/*
+	font-family: 'Raleway', sans-serif;
+	font-family: 'Russo One', sans-serif;
+	font-family: 'Bungee Shade', cursive;
+	*/
+}
+.mg-nav {
+	margin-top: 47px;
+}
+.tituloss {
+	-webkit-animation-fill-mode: both;
+	animation-fill-mode: both;
+	-webkit-animation-iteration-count: infinite;
+	animation-iteration-count: infinite;
+	-webkit-animation-duration: 5s;
+	animation-duration: 5s;
+
+}
+.circulo200 {
+	width: 160px;
+	height: 160px;
+	border-radius: 100%;
+	background-color: rgba(1,76,69,0.7);
+	margin: auto;
+	padding-top: 13%;
+}
+
+/*fondos*/
+.bg-banner-inicio {
+	background-image: url("../img/inicio.jpg");
+	height: 620px;
+}
+.bg-banner-sobremi {
+	background-image: url("../img/sobremi.jpg");
+	height: 620px;
+	background-position: center top !important;
+}
+.bg-banner-portafolio {
+	background-image: url("../img/portafolio.jpg");
+	height: 620px;
+}
+.bg-banner-colaboremos {
+	background-image: url("../img/colaboremos.jpg");
+	height: 620px;
+}
+.bg-banner-contáctame {
+	background-image: url("../img/contactame.jpg");
+	height: 620px;
+}
+/*plugins*/
+.mPopup{
+        /* popup css code */
+        width: 60%;
+        height: 300px;
+    }
