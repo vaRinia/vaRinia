@@ -1,0 +1,1392 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"input",
+				"inputPais〔variable〕"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"col-md-",
+				"col-md-8"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"bold",
+				"bold"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"col-lg",
+				"col-lg-6"
+			],
+			[
+				"col-md",
+				"col-md-6"
+			],
+			[
+				"pet-",
+				"pet-contacto"
+			],
+			[
+				"pet-co",
+				"pet-como-funciona"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"defa",
+				"default-text-column"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"guar",
+				"guardarLista"
+			],
+			[
+				"guardar",
+				"guardarTarjeta"
+			],
+			[
+				"btnGuar",
+				"btnGuardarTarjeta〔variable〕"
+			],
+			[
+				"btn",
+				"btnGuardarLista"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"bore",
+				"border-radius"
+			],
+			[
+				"divCol",
+				"divColTitulo"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"dr",
+				"dragStart"
+			],
+			[
+				"document",
+				"document.getElementsByClassName(\"input-box"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"click",
+				"clickLista〔function〕"
+			],
+			[
+				"box-",
+				"box-tarjeta"
+			],
+			[
+				"div",
+				"divCol"
+			],
+			[
+				"tarea",
+				"tareaBox"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"docum",
+				"document.createElement(\"button"
+			],
+			[
+				"btnGuardar",
+				"btnGuardarTarjeta"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"remove",
+				"removeChild〔function〕"
+			],
+			[
+				"getElement",
+				"getElementById〔function〕"
+			],
+			[
+				"getElem",
+				"getElementById〔function〕"
+			],
+			[
+				"getElementsBy",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"par",
+				"parentNode"
+			],
+			[
+				"ape",
+				"appendChild"
+			],
+			[
+				"create",
+				"createTextNode"
+			],
+			[
+				"regex",
+				"regexNombreApellido"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"nombre",
+				"nombre1"
+			],
+			[
+				"N",
+				"nombre1"
+			],
+			[
+				"numero",
+				"numeroDni"
+			],
+			[
+				"lado",
+				"lado2"
+			],
+			[
+				"venta",
+				"venta_actual"
+			],
+			[
+				"venta_",
+				"venta_es_mayor_a_mil"
+			],
+			[
+				"decir",
+				"decirMenor"
+			],
+			[
+				"Numer",
+				"Number"
+			],
+			[
+				"prom",
+				"prompt"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"ca",
+				"class\tAttr"
+			],
+			[
+				"rgb",
+				"rgb()"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"border-b",
+				"border-bottom"
+			],
+			[
+				"border-bott",
+				"border-bottom-color"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"mari",
+				"margin-top"
+			],
+			[
+				"H2",
+				"h2"
+			],
+			[
+				"h",
+				"h5\tTag"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"margon",
+				"margin-top"
+			],
+			[
+				"BORDER",
+				"border"
+			],
+			[
+				"DIV",
+				"div"
+			],
+			[
+				"line",
+				"outline-color"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"H3",
+				"h3"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fotn",
+				"font-size"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"text-",
+				"text-decoration-line"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"BORD",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"out",
+				"outline"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"MARGI",
+				"margin-bottom"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"WID",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"positi",
+				"position"
+			],
+			[
+				"A",
+				"A"
+			],
+			[
+				"bak",
+				"background"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"hed",
+				"header\tTag"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"size",
+				"size"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"posi",
+				"position"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"positio",
+				"object-position"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"backgroun",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/index.html",
+			"settings":
+			{
+				"buffer_size": 2761,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/js/prueba.js",
+			"settings":
+			{
+				"buffer_size": 3038,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "var imgMex;"
+			}
+		},
+		{
+			"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/js/main.js",
+			"settings":
+			{
+				"buffer_size": 1204,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "function makeArray(n) {"
+			}
+		},
+		{
+			"file": "/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/js/main.js",
+			"settings":
+			{
+				"buffer_size": 3360,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/index.html",
+			"settings":
+			{
+				"buffer_size": 3155,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "function makeArray(n) {\n\tthis.length = n;\n\tfor (var i=1; i<=n; i++) {\n\t\tthis[i] = \"\"; \n\t}\n\treturn this;\n}\nvar i;\nfunction imagealeatoire() {\n\ti = Math.floor(3 * Math.random() + 1);\n\treturn image[i];\n}\nimage = new makeArray(3);\nimage[1]=\"img/img1.png\";\nimage[2]=\"img/img2.png\";\nimage[3]=\"img/img3.png\";",
+			"settings":
+			{
+				"buffer_size": 301,
+				"line_ending": "Windows",
+				"name": "function makeArray(n) {"
+			}
+		},
+		{
+			"contents": "function makeArray(n) {\n\tthis.length = n;\n\tfor (var i=1; i<=n; i++) {\n\t\tthis[i] = \"\"; \n\t}\n\treturn this;\n}\nvar i;\n\nfunction imagealeatoire() {\n\ti = Math.floor(3 * Math.random() + 1);\n\treturn image[i];\n}\nimage = new makeArray(3);\nimage[1]=\"img/mexico/img1.png\";\nimage[2]=\"img/mexico/img2.png\";\nimage[3]=\"img/mexico/img3.png\";\t\n\t\nfunction pais(){\n\tvar pais = document.getElementById(\"pais\").selectedIndex;\n\tswitch(pais){\n\t\tcase 1 :\n\t\t\t\tvar fotos = document.getElementById(\"fotos\")\n\t\t\t\tfotos.innerHTML= (\"<img src=\" +imagealeatoire() +\" WIDTH=200 HEIGHT=200 BORDER=0>\");\n       \tbreak; \n\t\tcase 2 :\n\t\t\t\tvar fotos = document.getElementById(\"fotos\")\n\t\t\t\tfotos.innerHTML= (\"<img src=\" +imagealeatoire() +\" WIDTH=200 HEIGHT=200 BORDER=0>\");\n       \tbreak; \n\t\tcase 3 :\n\t\t\t\tvar fotos = document.getElementById(\"fotos\")\n\t\t\t\tfotos.innerHTML= (\"<img src=\" +imagealeatoire() +\" WIDTH=200 HEIGHT=200 BORDER=0>\");\n       \tbreak; \n\t\tcase 4 :\n\t\t\t\tvar fotos = document.getElementById(\"fotos\")\n\t\t\t\tfotos.innerHTML= (\"<img src=\" +imagealeatoire() +\" WIDTH=200 HEIGHT=200 BORDER=0>\");\n       \tbreak; \n        }\n\n\t\t\n}\n\nfunction nombre(){\n\tvar nombre=document.getElementById(\"name\").value;\n\t    if( nombre == \"\"){\n\t        alert(\"Debes ingresar un nombre\");\n\t    }\n\n}",
+			"settings":
+			{
+				"buffer_size": 1242,
+				"line_ending": "Windows",
+				"name": "function makeArray(n) {"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 12648,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/estilo.css",
+			"settings":
+			{
+				"buffer_size": 2491,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<div class=\"col-lg-4 col-md-6 col-xs-12 text-center center-block\">\n\t\t\t\t\t<p><em> Project made in Laboratoria México </em></p>\n\t\t\t\t\t<div id=\"project1\">\n\t\t\t\t\t\t<div id=\"info\">\n\t\t\t\t\t\t\t<span>\n\t\t\t\t\t\t\t\t<!-- Trigger the modal with a button -->\n\t\t\t\t\t\t\t\t<button type=\"button\" class=\"btn boton\" data-toggle=\"modal\" data-target=\"#myModal\">See more...</button>\n\n\t\t\t\t\t\t\t  <!-- Modal -->\n\t\t\t\t\t\t\t  \t<div class=\"modal fade\" id=\"myModal\" role=\"dialog\">\n\t\t\t\t\t\t\t    \t<div class=\"modal-dialog modal-lg\">\n\t\t\t\t\t\t\t\t      \t<div class=\"modal-content\">\n\t\t\t\t\t\t\t\t        \t<div class=\"modal-header\">\n\t\t\t\t\t\t\t\t          \t\t<button type=\"button\" class=\"close\" data-dismiss=\"modal\">&times;</button>\n\t\t\t\t\t\t\t\t          \t\t<h4 class=\"modal-title\">Kane Theme</h4>\n\t\t\t\t\t\t\t\t          \t\t<p>Made in Laboratoria México</p>\n\t\t\t\t\t\t\t\t          \t\t<a href=\"https://github.com/jackieebenitez/033_KaneTheme\">Code on <mark>Github</mark></a>\n\t\t\t\t\t\t\t\t        \t</div>\n\t\t\t\t\t\t\t\t        \t<div class=\"modal-body\">\n\t\t\t\t\t\t\t\t          \t\t<img src=\"projects/kane/kanethem.jpg\" alt=\"kanetheme\" class=\"img-modal\">\n\t\t\t\t\t\t\t\t          \t\t<img src=\"projects/kane/mockup_web.png\" class=\"img-modal mg-top5\">\n\t\t\t\t\t\t\t\t        \t</div>\n\t\t\t\t\t\t\t\t        \t<div class=\"modal-footer\">\n\t\t\t\t\t\t\t\t          \t\t<button type=\"button\" class=\"btn boton\" data-dismiss=\"modal\">Close</button>\n\t\t\t\t\t\t\t\t        \t</div>\n\t\t\t\t\t\t\t\t      \t</div>\n\t\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t\t    </div>\n\t\t\t\t\t\t\t</span>\n\t\t\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>",
+			"settings":
+			{
+				"buffer_size": 1430,
+				"line_ending": "Windows",
+				"name": "<div class=\"col-lg-4 col-md-6 col-xs-12 text-cente"
+			}
+		},
+		{
+			"file": "css/super-utiles.css",
+			"settings":
+			{
+				"buffer_size": 2900,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 146012,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"control ",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Alumna/Desktop/Laboratoria/44_Portafolio",
+		"/C/Users/Alumna/Desktop/Laboratoria/44_Portafolio/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Alumna/Documents/KINIT/greenture/main-files/css/style.css",
+		"/C/Users/Alumna/Documents/KINIT/greenture/main-files/index-2.html",
+		"/C/xampp/htdocs/urnas/application/controllers/index.html",
+		"/C/xampp/htdocs/urnas/application/views/shared/_head_commons.php",
+		"/C/xampp/htdocs/urnas/application/views/faqs.php",
+		"/C/xampp/htdocs/urnas/application/views/biocard.php",
+		"/C/xampp/htdocs/urnas/application/controllers/Sections.php",
+		"/C/xampp/htdocs/urnas/application/views/home.php",
+		"/C/xampp/htdocs/urnas/application/views/shared/_scripts.php",
+		"/C/xampp/htdocs/urnas/application/views/shared/_header.php",
+		"/C/Users/Alumna/Desktop/Laboratoria/33_KaneTheme/index.html",
+		"/C/xampp/htdocs/urnas/application/views/urnas.php",
+		"/C/xampp/htdocs/urnas/application/views/shared/_page_title.php",
+		"/C/xampp/htdocs/urnas/application/views/pet-friendly.php",
+		"/C/xampp/htdocs/kinit/application/views/courses/landing_courses.php",
+		"/C/xampp/htdocs/kinit/application/controllers/Courses.php",
+		"/C/xampp/htdocs/kinit/application/controllers/Events.php",
+		"/C/xampp/htdocs/kinit/application/controllers/Home.php",
+		"/C/xampp/htdocs/kinit/application/views/index.html",
+		"/C/xampp/htdocs/kinit/application/views/welcome_message.php",
+		"/C/xampp/htdocs/kinit/application/views/sections/consulting.php",
+		"/C/xampp/htdocs/kinit/application/views/sections/about_us.php",
+		"/C/xampp/htdocs/kinit/application/views/sections/courses.php",
+		"/C/xampp/htdocs/kinit/application/views/sections/design.php",
+		"/C/xampp/htdocs/kinit/application/views/sections/home.php",
+		"/C/xampp/htdocs/kinit/application/views/sections/develop.php",
+		"/C/xampp/htdocs/kinit/application/views/sections/landing-ditmx.php",
+		"/C/xampp/htdocs/kinit/application/views/sections/landing-nh.php",
+		"/C/xampp/htdocs/kinit/application/views/sections/privacy.php",
+		"/C/xampp/htdocs/kinit/application/views/courses/index.php",
+		"/C/Users/Alumna/Desktop/a.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/JQUERY/bicis-locas-jQuery/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/JQUERY/bicis-locas-jQuery/js/mainjquery.js",
+		"/C/xampp/htdocs/kinit/application/controllers/welcome.php",
+		"/C/xampp/htdocs/kinit/application/controllers/index.html",
+		"/C/Users/Alumna/Documents/KINIT/1/blank-ci-commons/application/controllers/index.html",
+		"/C/Users/Alumna/Documents/KINIT/1/blank-ci-commons/application/controllers/Welcome.php",
+		"/C/Users/Alumna/Documents/KINIT/1/blank-ci-commons/application/controllers/._index.html",
+		"/C/Users/Alumna/Documents/KINIT/1/blank-ci-commons/application/controllers/._Welcome.php",
+		"/C/Users/Alumna/Documents/KINIT/kinit - Acceso directo.lnk",
+		"/C/Users/Alumna/Documents/KINIT/blank-ci-commons/application/views/index.html",
+		"/C/Users/Alumna/Documents/KINIT/blank-ci-commons/application/controllers/Welcome.php",
+		"/C/Users/Alumna/Documents/KINIT/blank-ci-commons/application/controllers/index.html",
+		"/C/Users/Alumna/Documents/KINIT/blank-ci-commons/application/config/routes.php",
+		"/C/xampp/htdocs/kinit/application/config/routes.php",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/htdocs/kinit/.htaccess",
+		"/C/Users/Alumna/Desktop/Laboratoria/JQUERY/bicis-locas-lvl2/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/JQUERY/bicis-locas-lvl2/js/mainjquery.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/JQUERY/bicis-locas-lvl2/js/main.js",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/cygwin64/etc/hosts",
+		"/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/trello v2/js/js.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/js/main.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/trello v2/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/trello v2/css/estilo.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/trello v2/js/js2.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/calavera literaria",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/04 Funciones/EJERCICIOS FUNCIONES.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/37_Objetos/Ejercicios objetos 01.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/Lyft/js/js.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/Lyft/css/estilo.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/trello/js/js.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/trello/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/bicis-locas/js/principal.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/bicis-locas/js/main.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/bicis-locas/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/trello/css/estilo.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/js/main22.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/twitter/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/trello/js/js2.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/twitter/js/js.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/twitter/css/estilo.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/33_KaneTheme/css/main.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/33_KaneTheme/css/super-utiles.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/twitter/js/js3.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/twitter/js/js2.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/DOM/11 OCT.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/twitter/index2.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/Problema/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/00 EJERCICIOS JAVASCRIPT/JAVA 23 SEPT.js",
+		"/C/Users/Alumna/Desktop/kjhjkj.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/DOM/18oct.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/Bicis-locas/js/donottouchthisfile.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/Bicis-locas/index.html",
+		"/C/Users/Alumna/Desktop/intento bicis locas.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/Bicis-locas/js/main.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/Bicis-locas/css/registro.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/Traduccion-formulario/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/Traduccion-formulario/js/main.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/03 Arreglos/EJERCICIOS ARREGLOS.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/38_EvaluacionG3/EvaluaciónG3/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/38_EvaluacionG3/EvaluaciónG3/ejercicio1.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/38_EvaluacionG3/EvaluaciónG3/segunda parte/style.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/38_EvaluacionG3/EvaluaciónG3/segunda parte/evaluacion2.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/38_EvaluacionG3/EvaluaciónG3/segunda parte/ejercicio2.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/38_EvaluacionG3/EvaluaciónG3/segunda parte/ejercicio1.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/38_EvaluacionG3/EvaluaciónG3/segunda parte/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 estr repetitivas y condicionales/EJERCICIOS CONDICIONALES Y REPETITIVAS.js",
+		"/C/Users/Alumna/AppData/Roaming/Sublime Text 3/Packages/User/JSLint.sublime-settings",
+		"/C/Users/Alumna/Desktop/Laboratoria/38_EvaluacionG3/EvaluaciónG3/style.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/38_EvaluacionG3/EvaluaciónG3/ejercicio2.js",
+		"/C/Users/Alumna/Desktop/ee.js",
+		"/E/JAVA 23 SEPT.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/01 Replit/Ejercicios en JS.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/35_EjerciciosPseudocódigo/05 Varios/08 Tiki Taka.txt",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/EJERCICIOS FUNCIONES.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/EJERCICIOS ARREGLOS.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/EJERCICIOS CONDICIONALES Y REPETITIVAS.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicio #2 Factorial de un numero.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicio #3 Operaciones matematicas.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicio #4 Saldo bancario.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicio #5 Repetir un texto.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicio #6 Multiplos de 11.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicio #7 Listas de valores.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicio #8 Identificando tipo de triangulo.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicio #9 Traduciendo palabras.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicio #10 Censo provincial.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicios estructuras/Ejercicio1 - Completar condiciones/Problema/main.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicios_estructuras.zip",
+		"/C/Users/Alumna/Desktop/Laboratoria/00 EJERCICIOS JAVA/JAVA 23 SEPT.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/33_KaneTheme/css/animate.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/33_KaneTheme/css/bootstrap.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/COSAS.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/31_EjercicioColaborativo/contacto.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/31_EjercicioColaborativo/columnistas.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/26_Sprint1-Ejercicio1/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\urnas",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pais",
+			"parallax",
+			"THE BEST TIME TO PLANT TREE IS NOW",
+			"secciones",
+			"text",
+			">\n",
+			"margin",
+			"maring",
+			"mt-1",
+			"10",
+			"aleman",
+			"base_url()",
+			"page-wrapper",
+			"page",
+			"QUÉ SON LAS URNAS PETFRIENDLY",
+			"img",
+			"30000+",
+			"main slider",
+			"images_url()",
+			"images_url",
+			"createElement",
+			"dragover",
+			"checkKey",
+			"checkKey(event)",
+			"checkKey(key)",
+			"btnGuardarTarjeta",
+			"btnGuardarLista",
+			"DRAGGABLE",
+			"divBox",
+			"dragstar",
+			"dragstart",
+			"dragover",
+			"col-xs-12",
+			"Col",
+			"drag(ev)",
+			"this.parentElement.removeChild(btnGuardarLista);",
+			"input",
+			"texto",
+			"tareas",
+			"ERROR",
+			"required=\"\"",
+			"form-signup",
+			"navbar-fixed-top",
+			"presentation",
+			"active",
+			"h-30",
+			"navbar",
+			"nav",
+			"col-",
+			"nav",
+			";\n",
+			"h2",
+			"h1",
+			"text-primary",
+			"bot-trans",
+			"azul",
+			"50px",
+			">\n",
+			"hr",
+			"heart",
+			"icon-bar",
+			"SR-",
+			"#bs-example-navbar-collapse-1",
+			"collapse",
+			"navbar-toggle",
+			"hover",
+			"navbar-default",
+			"icon-bar",
+			"sr-only",
+			"collapse",
+			"navbar-toggle",
+			"navbar-header",
+			"navbar-brand",
+			"navbar-header",
+			"navbar",
+			"facebook",
+			"italic",
+			"width",
+			"bg",
+			"white",
+			"text-white",
+			"bg",
+			"img",
+			">\n",
+			".twitter-twits",
+			"twitter-twits",
+			"portafolio-wrap",
+			"button",
+			"bg",
+			";\n",
+			"\t\t\t\t\t\tBLOG\n",
+			"\t\t\t\t\t\t\n",
+			"    \t\t\t",
+			"}\n",
+			"; "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1557,
+								1557
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/js/prueba.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3038,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1619,
+								1619
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "var imgMex;",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1386.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								785,
+								914
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "function makeArray(n) {",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 182.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								747,
+								747
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 42.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function makeArray(n) {",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1242,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								755,
+								756
+							]
+						],
+						"settings":
+						{
+							"auto_name": "function makeArray(n) {",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12648,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11436,
+								12023
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3402.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "css/estilo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2491,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								273
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 23.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1430,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<div class=\"col-lg-4 col-md-6 col-xs-12 text-cente",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "css/super-utiles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2293,
+								2309
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1932.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31527,
+								31527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 26438.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 54.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "portafolio.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
