@@ -9,17 +9,11 @@ color: #014c45; azul oscuro
 .txt-azul68bd {
 	color: #68BDEA; 
 }
-.txt-azul014c {
-	color: #014c45;
-}
 .bg-vera6E6 {
 	background-color: #A6E637;
 }
 .bg-azul68bd {
 	background-color: #68BDEA; 
-}
-.bg-azul014c {
-	background-color: #68BDEA;
 }
 /*navegador*/
 nav {
@@ -43,7 +37,6 @@ h1 {
 	
 	font-family: 'Raleway', sans-serif !important;
 	font-size: 16rem !important;
-
 	/*
 	font-family: 'Anton', sans-serif;
 	font-family: 'Raleway', sans-serif;
@@ -60,19 +53,6 @@ section a:hover{
 }
 .mg-nav {
 	margin-top: 47px;
-}
-.tituloss {
-	-webkit-animation-fill-mode: both;
-	animation-fill-mode: both;
-	-webkit-animation-iteration-count: infinite;
-	animation-iteration-count: infinite;
-	-webkit-animation-duration: 5s;
-	animation-duration: 5s;
-
-}
-.btn-vermas {
-	border: none;
-	border-radius: 10px;	
 }
 /*.agua {
 	background-color: rgba(229,199,194,0.8);
@@ -92,26 +72,22 @@ section a:hover{
 	width: 160px;
 	height: 160px;
 	border-radius: 100%;
-	background-color: rgba(104,189,234,0.7);
+	background-color: rgba(104, 189, 234, 0.7);
 	margin: auto;
-	padding-top: 25%;
+	padding-top: 15%;
 	color: rgb(41, 40, 39);
 }
 
 /*fondos*/
 .bg-banner-inicio {
 	background-image: url("../img/inicio.jpg");
-	
 }
 .bg-banner-sobremi {
 	background-image: url("../img/sobremi.jpg");
-	
 	background-position: right top !important;
 }
 .bg-banner-portafolio {
 	background-image: url("../img/portafolio.jpg");
-	
-	
 }
 .bg-banner-colaboremos {
 	background-image: url("../img/colaboremos.jpg");
@@ -119,7 +95,6 @@ section a:hover{
 }
 .bg-banner-contáctame {
 	background-image: url("../img/contactame.jpg");
-	
 }
 a:hover {
 cursor: pointer;
@@ -158,31 +133,33 @@ text-decoration:none;
 	#contactame h3 {
 		font-size: 1.7rem;	
 	}
-
-
+}
+@media (min-width: 251px) and (max-width: 350px) { 
+	.circulo200 {
+		width: 100px;
+		height: 100px;
+		margin-top: 10px;
+		padding-top: 15%;
+		font-size: .7em;
+	}
+	/*.circulo200>h4 {
+		font-size: 1.2rem;
+	}*/
+}
+@media (min-width: 351px) and (max-width: 768px) { 
+	.circulo200 {
+		width: 140px;
+		height: 140px;
+		margin-top: 10px;
+		padding-top: 18%;
+		font-size: 0.9em;
+	}
+	/*.circulo200>h4 {
+		font-size: 1.3rem;
+	}*/
 }
 @media (min-width: 251px) and (max-width: 768px){ 
 	.previa {
 		width: 80% !important;
 	}
-
-	.circulo200 {
-		width: 120px;
-		height: 120px;
-		margin-top: 10px;
-		padding-top: 15%;
-		font-size: 0.9em;}
-	}
-	.circulo200>h4 {
-		font-size: 1.3rem;
-	}
 }
-
-
-
-
-
-
-
-
-
