@@ -1,16 +1,3 @@
-/*paleta
-color: #00b842; verde oscuro
-color: #6AE83A; verde claro
-color: #ffe71a; amarillo
-*/
-.txt-ver6ae8 {
-	color: #00b842;
-}
-.txt-amaffe7 {
-	color: #ffe71a;
-}
-
-
 /*paleta 2
 color: #C8F57A; verde claro
 color: #68BDEA; azul claro
@@ -25,7 +12,7 @@ color: #014c45; azul oscuro
 .txt-azul014c {
 	color: #014c45;
 }
-.bg-verc8f5 {
+.bg-vera6E6 {
 	background-color: #A6E637;
 }
 .bg-azul68bd {
@@ -52,7 +39,6 @@ nav a:hover{
 	color: #A6E637 !important;
 	font-size: 2.5em;
 }
-
 h1 {
 	
 	font-family: 'Raleway', sans-serif !important;
@@ -64,6 +50,13 @@ h1 {
 	font-family: 'Russo One', sans-serif;
 	font-family: 'Bungee Shade', cursive;
 	*/
+}
+section a {
+	color:  #A6E637 !important;
+}
+section a:hover{
+	text-decoration: none;
+	font-size: 1.5em;
 }
 .mg-nav {
 	margin-top: 47px;
@@ -77,13 +70,31 @@ h1 {
 	animation-duration: 5s;
 
 }
+.btn-vermas {
+	border: none;
+	border-radius: 10px;	
+}
+/*.agua {
+	background-color: rgba(229,199,194,0.8);
+	text-align: center;
+	width: 100%;
+	padding: 10%;
+	opacity: 0;
+	height: 300px;
+}
+.agua:hover {
+	opacity: 1;
+	-webkit-transition:opacity 0.2s;
+	-moz-transition:opacity 0.2s;
+}
+*/
 .circulo200 {
 	width: 160px;
 	height: 160px;
 	border-radius: 100%;
 	background-color: rgba(104,189,234,0.7);
 	margin: auto;
-	padding-top: 13%;
+	padding-top: 25%;
 	color: rgb(41, 40, 39);
 }
 
@@ -95,26 +106,33 @@ h1 {
 .bg-banner-sobremi {
 	background-image: url("../img/sobremi.jpg");
 	
-	background-position: center top !important;
+	background-position: right top !important;
 }
 .bg-banner-portafolio {
 	background-image: url("../img/portafolio.jpg");
 	
+	
 }
 .bg-banner-colaboremos {
 	background-image: url("../img/colaboremos.jpg");
-	
+	background-position: center bottom !important;
 }
 .bg-banner-contáctame {
 	background-image: url("../img/contactame.jpg");
 	
 }
+a:hover {
+cursor: pointer;
+color: green;
+text-decoration:none;
+}
+/* footer */
+.txt-mora {
+	color: #594081;
+}
+
 /*plugins*/
-.mPopup{
-        /* popup css code */
-        width: 60%;
-        height: 300px;
-    }
+
 /*MEDIA QUERIES*/
 @media (max-width: 250px) { 
 	.tituloss {
@@ -128,21 +146,36 @@ h1 {
 		padding: 2px;
 	}
 	.circulo200 {
-		width: 100px;
-		height: 100px;
+		width: 80px;
+		height: 80px;
 		margin-top: 10px;
-		padding-top: 20%;
+		padding-top: 15%;
+		font-size: .5em;
 	}
-	.circulo200>h2 {
-		font-size: 1.5rem;
+	.circulo200>h4 {
+		font-size: 1.1rem;
 	}
 	#contactame h3 {
 		font-size: 1.7rem;	
 	}
 
+
 }
 @media (min-width: 251px) and (max-width: 768px){ 
+	.previa {
+		width: 80% !important;
+	}
 
+	.circulo200 {
+		width: 120px;
+		height: 120px;
+		margin-top: 10px;
+		padding-top: 15%;
+		font-size: 0.9em;}
+	}
+	.circulo200>h4 {
+		font-size: 1.3rem;
+	}
 }
 
 

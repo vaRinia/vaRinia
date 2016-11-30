@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"img",
+				"img\tTag"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"navba",
+				"navbar-brand"
+			],
+			[
+				"mouse",
+				"mouseenter〔function〕"
+			],
+			[
+				"nav",
+				"navbar-brand"
+			],
+			[
+				"data",
+				"data-section"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"bounce",
+				"bounceIn"
+			],
+			[
+				"anima",
+				"animated-hinge"
+			],
+			[
+				"ani",
+				"animated-infinite"
+			],
+			[
+				"fade",
+				"fadeOut〔function〕"
+			],
+			[
+				"msj",
+				"msjSuccess〔variable〕"
+			],
+			[
 				"input",
 				"inputPais〔variable〕"
 			],
@@ -158,10 +206,6 @@
 			[
 				"mar",
 				"margin-top"
-			],
-			[
-				"nav",
-				"navbar"
 			],
 			[
 				"marg",
@@ -470,125 +514,16 @@
 			[
 				"size",
 				"size"
-			],
-			[
-				"al",
-				"alt\tAttr"
-			],
-			[
-				"col",
-				"color"
-			],
-			[
-				"posi",
-				"position"
-			],
-			[
-				"di",
-				"div\tTag"
-			],
-			[
-				"dis",
-				"display"
-			],
-			[
-				"positio",
-				"object-position"
-			],
-			[
-				"bord",
-				"border"
-			],
-			[
-				"font-s",
-				"font-size"
-			],
-			[
-				"hei",
-				"height"
-			],
-			[
-				"wid",
-				"width"
-			],
-			[
-				"backgroun",
-				"background-color"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/index.html",
-			"settings":
-			{
-				"buffer_size": 2761,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/js/prueba.js",
-			"settings":
-			{
-				"buffer_size": 3038,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "var imgMex;"
-			}
-		},
-		{
-			"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/js/main.js",
-			"settings":
-			{
-				"buffer_size": 1204,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "function makeArray(n) {"
-			}
-		},
-		{
-			"file": "/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/js/main.js",
-			"settings":
-			{
-				"buffer_size": 3360,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/index.html",
-			"settings":
-			{
-				"buffer_size": 3155,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "function makeArray(n) {\n\tthis.length = n;\n\tfor (var i=1; i<=n; i++) {\n\t\tthis[i] = \"\"; \n\t}\n\treturn this;\n}\nvar i;\nfunction imagealeatoire() {\n\ti = Math.floor(3 * Math.random() + 1);\n\treturn image[i];\n}\nimage = new makeArray(3);\nimage[1]=\"img/img1.png\";\nimage[2]=\"img/img2.png\";\nimage[3]=\"img/img3.png\";",
-			"settings":
-			{
-				"buffer_size": 301,
-				"line_ending": "Windows",
-				"name": "function makeArray(n) {"
-			}
-		},
-		{
-			"contents": "function makeArray(n) {\n\tthis.length = n;\n\tfor (var i=1; i<=n; i++) {\n\t\tthis[i] = \"\"; \n\t}\n\treturn this;\n}\nvar i;\n\nfunction imagealeatoire() {\n\ti = Math.floor(3 * Math.random() + 1);\n\treturn image[i];\n}\nimage = new makeArray(3);\nimage[1]=\"img/mexico/img1.png\";\nimage[2]=\"img/mexico/img2.png\";\nimage[3]=\"img/mexico/img3.png\";\t\n\t\nfunction pais(){\n\tvar pais = document.getElementById(\"pais\").selectedIndex;\n\tswitch(pais){\n\t\tcase 1 :\n\t\t\t\tvar fotos = document.getElementById(\"fotos\")\n\t\t\t\tfotos.innerHTML= (\"<img src=\" +imagealeatoire() +\" WIDTH=200 HEIGHT=200 BORDER=0>\");\n       \tbreak; \n\t\tcase 2 :\n\t\t\t\tvar fotos = document.getElementById(\"fotos\")\n\t\t\t\tfotos.innerHTML= (\"<img src=\" +imagealeatoire() +\" WIDTH=200 HEIGHT=200 BORDER=0>\");\n       \tbreak; \n\t\tcase 3 :\n\t\t\t\tvar fotos = document.getElementById(\"fotos\")\n\t\t\t\tfotos.innerHTML= (\"<img src=\" +imagealeatoire() +\" WIDTH=200 HEIGHT=200 BORDER=0>\");\n       \tbreak; \n\t\tcase 4 :\n\t\t\t\tvar fotos = document.getElementById(\"fotos\")\n\t\t\t\tfotos.innerHTML= (\"<img src=\" +imagealeatoire() +\" WIDTH=200 HEIGHT=200 BORDER=0>\");\n       \tbreak; \n        }\n\n\t\t\n}\n\nfunction nombre(){\n\tvar nombre=document.getElementById(\"name\").value;\n\t    if( nombre == \"\"){\n\t        alert(\"Debes ingresar un nombre\");\n\t    }\n\n}",
-			"settings":
-			{
-				"buffer_size": 1242,
-				"line_ending": "Windows",
-				"name": "function makeArray(n) {"
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 12648,
+				"buffer_size": 13086,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -597,7 +532,25 @@
 			"file": "css/estilo.css",
 			"settings":
 			{
-				"buffer_size": 2491,
+				"buffer_size": 2592,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Alumna/Desktop/Laboratoria/45_SuperAdivinaQuien/index.html",
+			"settings":
+			{
+				"buffer_size": 3785,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Alumna/Desktop/Laboratoria/45_SuperAdivinaQuien/js/main.js",
+			"settings":
+			{
+				"buffer_size": 7400,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -617,14 +570,6 @@
 			{
 				"buffer_size": 2900,
 				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/bootstrap.css",
-			"settings":
-			{
-				"buffer_size": 146012,
 				"line_ending": "Unix"
 			}
 		}
@@ -683,6 +628,18 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/trello v2/index.html",
+		"/C/xampp/htdocs/urnas/application/views/pet-friendly.php",
+		"/C/xampp/htdocs/urnas/application/views/shared/_header_pet_friendly.php",
+		"/C/Users/Alumna/Desktop/Laboratoria/44_Portafolio/css/bootstrap.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/trello/js/js.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/trello/index.html",
+		"/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/js/main.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/44_Portafolio/css/animate.css",
+		"/C/Users/Alumna/Desktop/Laboratoria/45_/js/main.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/45_/js/prueba.js",
+		"/C/Users/Alumna/Desktop/Laboratoria/45_/index.html",
 		"/C/Users/Alumna/Documents/KINIT/greenture/main-files/css/style.css",
 		"/C/Users/Alumna/Documents/KINIT/greenture/main-files/index-2.html",
 		"/C/xampp/htdocs/urnas/application/controllers/index.html",
@@ -696,7 +653,6 @@
 		"/C/Users/Alumna/Desktop/Laboratoria/33_KaneTheme/index.html",
 		"/C/xampp/htdocs/urnas/application/views/urnas.php",
 		"/C/xampp/htdocs/urnas/application/views/shared/_page_title.php",
-		"/C/xampp/htdocs/urnas/application/views/pet-friendly.php",
 		"/C/xampp/htdocs/kinit/application/views/courses/landing_courses.php",
 		"/C/xampp/htdocs/kinit/application/controllers/Courses.php",
 		"/C/xampp/htdocs/kinit/application/controllers/Events.php",
@@ -735,10 +691,7 @@
 		"/C/Users/Alumna/Desktop/Laboratoria/JQUERY/bicis-locas-lvl2/js/main.js",
 		"/C/Windows/System32/drivers/etc/hosts",
 		"/C/cygwin64/etc/hosts",
-		"/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/index.html",
 		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/trello v2/js/js.js",
-		"/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/js/main.js",
-		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/trello v2/index.html",
 		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/trello v2/css/estilo.css",
 		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/trello v2/js/js2.js",
 		"/C/Users/Alumna/Desktop/Laboratoria/calavera literaria",
@@ -746,8 +699,6 @@
 		"/C/Users/Alumna/Desktop/Laboratoria/37_Objetos/Ejercicios objetos 01.js",
 		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/Lyft/js/js.js",
 		"/C/Users/Alumna/Desktop/Laboratoria/42_APIS/Lyft/css/estilo.css",
-		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/trello/js/js.js",
-		"/C/Users/Alumna/Desktop/Laboratoria/41_EVENTOS/trello/index.html",
 		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/bicis-locas/js/principal.js",
 		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/bicis-locas/js/main.js",
 		"/C/Users/Alumna/Desktop/Laboratoria/39_DOM_I/bicis-locas/index.html",
@@ -804,13 +755,7 @@
 		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicio #10 Censo provincial.js",
 		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicios estructuras/Ejercicio1 - Completar condiciones/Problema/main.js",
 		"/C/Users/Alumna/Desktop/Laboratoria/36_Programación/02 ejercicios antiguo capitán/Ejercicios_estructuras.zip",
-		"/C/Users/Alumna/Desktop/Laboratoria/00 EJERCICIOS JAVA/JAVA 23 SEPT.js",
-		"/C/Users/Alumna/Desktop/Laboratoria/33_KaneTheme/css/animate.css",
-		"/C/Users/Alumna/Desktop/Laboratoria/33_KaneTheme/css/bootstrap.css",
-		"/C/Users/Alumna/Desktop/Laboratoria/COSAS.css",
-		"/C/Users/Alumna/Desktop/Laboratoria/31_EjercicioColaborativo/contacto.html",
-		"/C/Users/Alumna/Desktop/Laboratoria/31_EjercicioColaborativo/columnistas.html",
-		"/C/Users/Alumna/Desktop/Laboratoria/26_Sprint1-Ejercicio1/index.html"
+		"/C/Users/Alumna/Desktop/Laboratoria/00 EJERCICIOS JAVA/JAVA 23 SEPT.js"
 	],
 	"find":
 	{
@@ -821,6 +766,7 @@
 		"height": 90.0,
 		"where_history":
 		[
+			"<current file>",
 			"C:\\xampp\\htdocs\\urnas",
 			""
 		]
@@ -830,6 +776,15 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"contactame",
+			"habilidades",
+			"portafolio",
+			"\">",
+			"boton",
+			"console.log",
+			"final",
+			"adivinar",
+			"mostrar",
 			"pais",
 			"parallax",
 			"THE BEST TIME TO PLANT TREE IS NOW",
@@ -932,6 +887,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"adivinar.value"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -942,24 +898,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/index.html",
+					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2761,
+						"buffer_size": 13086,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1557,
-								1557
+								2263,
+								2263
 							]
 						],
 						"settings":
@@ -969,235 +925,27 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 168.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/js/prueba.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3038,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1619,
-								1619
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"auto_name": "var imgMex;",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1386.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/C/Users/Alumna/Desktop/Laboratoria/45_/js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1204,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								785,
-								914
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"auto_name": "function makeArray(n) {",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 182.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/js/main.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3360,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								178,
-								178
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 210.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "/C/Users/Alumna/Desktop/Laboratoria/40_DOM_II/bicis-locas-lvl2/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3155,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								747,
-								747
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 42.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 301,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								86,
-								86
-							]
-						],
-						"settings":
-						{
-							"auto_name": "function makeArray(n) {",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1242,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								755,
-								756
-							]
-						],
-						"settings":
-						{
-							"auto_name": "function makeArray(n) {",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12648,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11436,
-								12023
-							]
-						],
-						"settings":
-						{
-							"auto_complete": false,
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3402.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
+					"buffer": 1,
 					"file": "css/estilo.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2491,
+						"buffer_size": 2592,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								262,
-								273
+								1988,
+								1988
 							]
 						],
 						"settings":
@@ -1206,14 +954,73 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 23.0,
+						"translation.y": 1260.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 2,
+					"file": "/C/Users/Alumna/Desktop/Laboratoria/45_SuperAdivinaQuien/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1160,
+								1160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 84.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Alumna/Desktop/Laboratoria/45_SuperAdivinaQuien/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7400,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								897,
+								897
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1224,8 +1031,8 @@
 						"selection":
 						[
 							[
-								1430,
-								0
+								568,
+								568
 							]
 						],
 						"settings":
@@ -1238,11 +1045,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 10,
+					"buffer": 5,
 					"file": "css/super-utiles.css",
 					"semi_transient": false,
 					"settings":
@@ -1254,8 +1061,8 @@
 						"selection":
 						[
 							[
-								2293,
-								2309
+								2000,
+								2000
 							]
 						],
 						"settings":
@@ -1264,40 +1071,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1932.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "css/bootstrap.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 146012,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31527,
-								31527
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 26438.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
+					"stack_index": 5,
 					"type": "text"
 				}
 			]
