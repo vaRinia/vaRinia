@@ -54,20 +54,6 @@ section a:hover{
 .mg-nav {
 	margin-top: 47px;
 }
-/*.agua {
-	background-color: rgba(229,199,194,0.8);
-	text-align: center;
-	width: 100%;
-	padding: 10%;
-	opacity: 0;
-	height: 300px;
-}
-.agua:hover {
-	opacity: 1;
-	-webkit-transition:opacity 0.2s;
-	-moz-transition:opacity 0.2s;
-}
-*/
 .circulo200 {
 	width: 160px;
 	height: 160px;
