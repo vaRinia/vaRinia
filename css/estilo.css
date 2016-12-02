@@ -1,3 +1,6 @@
+body {
+font-family: 'Ubuntu', sans-serif;
+}
 .txt-ver68ea99 {
 	color: #68ea99;
 } /*104,234,153*/
@@ -16,6 +19,7 @@ nav {
 	background-color: rgba(0,0,0,.8) !important;
 	padding-left: 20px;
 	padding-right: 20px;
+
 	
 }
 nav a:hover{
@@ -28,16 +32,6 @@ nav a:hover{
 }
 .boton, .botonc {
 	color: lightgrey !important;
-}
-h1 {
-	
-	font-family: 'Raleway', sans-serif !important;
-	/*
-	font-family: 'Anton', sans-serif;
-	font-family: 'Raleway', sans-serif;
-	font-family: 'Russo One', sans-serif;
-	font-family: 'Bungee Shade', cursive;
-	*/
 }
 section {
 	margin-bottom: 13%;
