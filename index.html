@@ -4,25 +4,24 @@
 		<title>vaRi_</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, user-scalable=no  initial-scale=1 maximum-scale=1 minimum-scale=1">
+		<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+		<link rel="stylesheet" type="text/css" href="css/animate.css">
 		<link rel="stylesheet" href="css/estilo.css">
 		<link rel="stylesheet" href="css/super-utiles.css">
-		<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
 		<link rel="stylesheet" href="css/font-awesome.min.css">
-		<link rel="stylesheet" href="css/animate.css">
-		<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-	    <!--<link href="dist/hamburgers.css" rel="stylesheet"> menu hamburguesa-->
+	    <!--<link href="hamburgers-master/dist/hamburgers.css" rel="stylesheet"> menu hamburguesa-->
 		<link href="https://fonts.googleapis.com/css?family=Bungee+Shade|Fruktur|Raleway:800|Russo+One|" rel="stylesheet">
 		<link rel="icon" type="image/png" href="img/favicon.png" />
 	</head>
 	<body>
-		<div class="container-fluid">
-			<header>
+		<header>
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-xs-12 col-md-12 col-lg-12">
 						<nav class="navbar navbar-fixed-top navbar-default pd-lr-2 pt-3">
 							<!-- Brand and toggle get grouped for better mobile display -->
 							<div class="navbar-header">
-								<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu" aria-expanded="false">
+								<button type="button" class=" navbar-toggle collapsed" data-toggle="collapse" data-target="#menu" aria-expanded="false">
 									<span class="sr-only">Toggle navigation</span>
 									<span class="icon-bar"></span>
 									<span class="icon-bar"></span>
@@ -35,343 +34,367 @@
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="menu">
 								<ul class="nav navbar-nav navbar-right">
-									<li><a class="boton lista" data-section="#sobre-mi">Sobre mí<span class="sr-only">(current)</span></a></li>
-									<li><a class="boton lista" data-section="#portafolio">Portafolio</a></li>
-									<li><a class="boton lista" data-section="#habilidades">Habilidades</a></li>
-									<li><a class="boton lista" data-section="#contactame">Contáctame</a></li>
+									<li><a class="boton" data-section="#sobre-mi">Sobre mí<span class="sr-only">(current)</span></a></li>
+									<li><a class="boton" data-section="#portafolio">Portafolio</a></li>
+									<li><a class="boton" data-section="#habilidades">Colaboremos</a></li>
+									<li><a class="botonc" data-section="#contactame">Contáctame</a></li>
 								</ul>
 							</div><!-- /.navbar-collapse -->
 						</nav>
 					</div>
 				</div>
-			</header>
-			<section class="bg-img-block bg-banner-inicio text-center text-lightgray pd-lr-12 pd-5 mg-nav" id="inicio">
+			</div> <!--container-->
+		</header>
+		<!--I N I C I O-->
+		<section class="text-center pd-lr-12 pd-5 pd-t-9 bg-banner-inicio" id="inicio">
+			<div class="container-fluid">
 				<div class="row">
 					<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 pull-right">
 						<img src="img/logogdee.png" alt="vari" class="img-responsive center-block">
-						<div class="bg-negro-trans bor-r-10">
-							<h3 class="">Varinia Esparza Padilla</h3>
-							<h3><strong><span class="txt-verc8f5">Front End Web Developer</span></strong></h3>
+						<div class="bg-negro-trans">
+							<h3 class="text-lightgray">Varinia Esparza Padilla</h3>
+							<h3><strong><span class="txt-ver68ea99">Front End Web Developer</span></strong></h3>
 						</div>
 					</div>
 				</div>
-			</section>
-			<!--S O B R E   M I-->
-			<section class="bg-img-block bg-banner-sobremi text-lightgray" id="sobre-mi">
-				<div class="seccion bg-azul68bd pd-1 pd-lr-3">
-					<h3 class="animated animated.hinge zoomIn text-griso"><b>¡Conóceme! </b><small>Quizá compartamos intereses...</small></h3>
-				</div>
-				<div  class="seccion text-center pd-lr-12 pd-5">
-					<div class="row">
-						<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
-							<img src="img/perfil.png" class="img-responsive center-block">
-						</div>
-						<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-							<div class="row text-center">
-								<div class="col-xs-12">
-									<div class="bg-negro-trans bor-r-10 mg-b-7 pd-3">
-										<h4 class="txt-verc8f5 line1p5">Arquitecta, artista visual, desarrolladora... mi formación multidisciplinaria me encamina a interesarme por diversas áreas y a buscar soluciones desde distintos puntos...</h4>
-									</div>
-								</div>
+			</div> <!--container-->
+		</section>
+		<!--S O B R E   M I-->
+		<section id="sobre-mi">
+			<div class="container-fluid">
+				<div class="row"><!--titulo de sección-->
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<div class="seccion bg-azul68bd pd-l-3">
+							<h3 class="text-griso"><b>¡Conóceme!</b></h3>
+							<h5>Quizá compartamos intereses...</h5>
+						</div>			
+					</div>
+					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 nueve">
+						<div class="row text-center">
+							<div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
+								<img src="img/perfil.png" class="img-responsive center-block" id="img-perfil">
 							</div>
-							<div class="row">
-								<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-									<h3 class="txt-verc8f5 mg-b-7">Intereses profesionales</h3>
-									<div class="bg-negro-trans bor-r-10 mg-b-7 pd-1">
-										<h5>Front-End Development</h5>
-									</div>
-									<div class="bg-negro-trans bor-r-10 mg-b-7 pd-1">
-										<h5>Back-End Development</h5>
-									</div>
-									<div class="bg-negro-trans bor-r-10 mg-b-7 pd-1">
-										<h5>User Experience</h5>
-									</div>
-								</div>
-								<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-									<h3 class="txt-verc8f5 mg-b-7">Otros intereses</h3>
-									<div class="bg-negro-trans bor-r-10 mg-b-7 pd-1">
-										<h5>Diseño gráfico, industrial, arquitectónico</h5>
-									</div>
-									<div class="bg-negro-trans bor-r-10 mg-b-7 pd-1">
-										<h5>Literatura, Arte</h5>
-									</div>
+							<div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
+								<div class="bg-negro-trans mg-b-7 pd-5">
+									<h4 class="txt-ver68ea99 line1p5">Arquitecta, artista visual, desarrolladora... mi formación multidisciplinaria me encamina a interesarme por diversas áreas y a buscar la resolución de problemas desde distintos enfoques...</h4>
 								</div>
 							</div>
 						</div>
+						<div class="row text-lightgray">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<h3 class="txt-ver68ea99 mg-b-7">Intereses</h3>
+								<div class="bg-negro-trans">
+									<h5>Front-End Development</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Back-End Development</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>User Experience</h5>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<h3 class="txt-ver68ea99 mg-b-7">...</h3>
+								<div class="bg-negro-trans">
+									<h5>Diseño gráfico, industrial, arquitectónico</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Literatura, Arte</h5>
+								</div>
+							</div>
+						</div>
+						<div class="row text-center text-lightgray">
+							<div class="col-xs-12 col-sm-4">
+								<h3 class="txt-ver68ea99 mg-b-7">Hard Skills</h3>
+								<div class="bg-negro-trans">
+									<h5>AutoCad: Avanzado</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>HTML / CSS: Intermedio</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Javascript: Intermedio</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Adobe Photoshop: Intermedio</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Github / Git: Básico</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Bootstrap: Básico</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Code Igniter: Básico</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Adobe After effects: Básico</h5>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-4">
+								<h3 class="txt-ver68ea99 mg-b-7">Soft Skills</h3>
+								<div class="bg-negro-trans">
+									<h5>Aprendizaje rápido</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Responsabilidad</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Capacidad de análisis</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Atención a los detalles</h5>
+								</div>
+							</div>
+							<div class="col-xs-12 col-sm-4">
+								<h3 class="txt-ver68ea99 mg-b-7">Idiomas</h3>
+								<div class="bg-negro-trans">
+									<h5>Español: Materna</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Inglés: Avanzado</h5>
+								</div>
+								<div class="bg-negro-trans">
+									<h5>Francés: Básico</h5>
+								</div>
+							</div>
+						</div>	
 					</div>
 				</div>
-			</section>
-			<!--P O R T A F O L I O-->
-			<section class="bg-img-block bg-banner-colaboremos text-lightgray" id="portafolio">
-				<div class="seccion bg-azul68bd pd-1 pd-lr-3">
-					<h3 class="animated animated.hinge zoomIn text-griso"><b>¿Qué he hecho? </b><small>Ejercicios de desarrollo web...</small></h3>
-				</div>
-				<div class="text-center pd-lr-12 pd-5">
-					<div class="row">
-						<!--PROYECTO 1-->
-						<div class="col-xs-12 col-sm-3 mg-b-7">
-							<div>
-								<!-- Trigger the modal with a  -->
-								<a><img src="img/pro/prevKane.jpg" alt="proyecto1" data-toggle="modal" data-target="#myModal" class="previa img-responsive bor-r-10 center-block"></a>
-								<!-- Modal -->
-								<div class="modal fade" id="myModal" role="dialog">
-									<div class="modal-dialog">
-									<!-- Modal content-->
-										<div class="modal-content">
-											<div class="modal-header">
-												<button type="button" class="close" data-dismiss="modal">&times;</button>
-												<!--<h5 class="modal-title">Modal Header</h5>-->
-											</div>
-											<div class="modal-body">
-												<img src="img/pro/pKANE.jpg" class="img-responsive">
-												<a href="https://varinia.github.io/33_KaneTheme/" target="blank"><i class="fa fa-plus-circle fa-2x mg-t-3" aria-hidden="true"></i></a>
-											</div>
-											<div class="modal-footer">
-												<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+			</div><!--cont fl-->
+		</section>
+		<!--P O R T A F O L I O-->
+		<section id="portafolio">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<div class="seccion bg-azul68bd pd-l-3">
+							<h3 class="text-griso"><b>¿Qué he hecho?</b></h3>
+							<h5>Ejercicios de desarrollo web</h5>
+						</div>	
+					</div>
+					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 nueve">
+						<div class="row text-center text-lightgray">
+							<!--PROYECTO 1-->
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<div>
+									<!-- Trigger the modal with a  -->
+									<a><img src="img/pro/prevKane.jpg" alt="proyecto1" data-toggle="modal" data-target="#myModal" class="previa img-responsive center-block"></a>
+									<!-- Modal -->
+									<div class="modal fade" id="myModal" role="dialog">
+										<div class="modal-dialog">
+										<!-- Modal content-->
+											<div class="modal-content">
+												<div class="modal-header">
+													<button type="button" class="close" data-dismiss="modal">&times;</button>
+													<!--<h5 class="modal-title">Modal Header</h5>-->
+												</div>
+												<div class="modal-body">
+													<img src="img/pro/pKANE.jpg" class="img-responsive">
+													<a href="https://varinia.github.io/33_KaneTheme/" target="blank"><i class="fa fa-plus-circle fa-2x mg-t-3" aria-hidden="true"></i></a>
+												</div>
+												<div class="modal-footer">
+													<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+												</div>
 											</div>
 										</div>
 									</div>
 								</div>
+								<h5 class="bg-negro-trans previa center-block">Web Design en Bootstrap</h5>
 							</div>
-							<h5 class="bg-negro-trans bor-r-10 previa center-block">Web Design en Bootstrap</h5>
-						</div>
-						<!--PROYECTO 2-->
-						<div class="col-xs-12 col-sm-3 mg-b-3">
-							<div>
-								<!-- Trigger the modal with a  -->
-								<a><img src="img/pro/prevFlatness.jpg" alt="proyecto1" data-toggle="modal" data-target="#myModal2" class="previa img-responsive bor-r-10 center-block"></a>
-								<!-- Modal -->
-								<div class="modal fade" id="myModal2" role="dialog">
-									<div class="modal-dialog">
-									<!-- Modal content-->
-										<div class="modal-content">
-											<div class="modal-header">
-												<button type="button" class="close" data-dismiss="modal">&times;</button>
-												<!--<h5 class="modal-title">Modal Header</h5>-->
-											</div>
-											<div class="modal-body">
-												<img src="img/pro/pFLATNESS.jpg" class="img-responsive">
-												<a href="https://varinia.github.io/26_Sprint1-Ejercicio1/" target="blank"><i class="fa fa-plus-circle fa-2x mg-t-3" aria-hidden="true"></i></a>
-											</div>
-											<div class="modal-footer">
-												<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<h5 class="bg-negro-trans bor-r-10 previa center-block">Web Design en Bootstrap</h5>
-						</div>
-						<!--PROYECTO 3-->
-						<!--<div class="col-xs-12 col-sm-3 mg-b-3">
-							<div>
-								Trigger the modal with a  
-								<img src="img/pro/prevEco.jpg" alt="proyecto1" data-toggle="modal" data-target="#myModal" class="previa img-responsive center-block">
-							 	Modal 
-								<div class="modal fade" id="myModal" role="dialog">
-									<div class="modal-dialog">
-									<Modal content
-										<div class="modal-content">
-											<div class="modal-header">
-												<button type="button" class="close" data-dismiss="modal">&times;</button>
-												<h5 class="modal-title">Modal Header</h5>
-											</div>
-											<div class="modal-body">
-												<img src="img/pro/pECOMUNIDAD.jpg" class="img-responsive">
-												<a href="https://varinia.github.io/18_ComunidadSostenible/" target="blank"><i class="fa fa-plus-circle fa-2x mg-t-3" aria-hidden="true"></i></a>
-											</div>
-											<div class="modal-footer">
-												<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
-											</div>
-										</div>
-
-									</div>
-								</div>
-
-							</div>
-							<h5 class="bg-negro-trans bor-r-10 previa center-block">Web Design en Bootstrap</h5>
-						</div>
-					</div>-->
-					<div class="row">
-						<!--PROYECTO 4-->
-						<div class="col-xs-12 col-sm-3 mg-b-3">
-							<div>
-								<!-- Trigger the modal with a  -->
-								<a><img src="img/pro/prevAdivina.jpg" alt="proyecto1" data-toggle="modal" data-target="#myModal3" class="previa img-responsive bor-r-10 center-block"></a>
-								<!-- Modal -->
-								<div class="modal fade" id="myModal3" role="dialog">
-									<div class="modal-dialog">
-									<!-- Modal content-->
-										<div class="modal-content">
-											<div class="modal-header">
-												<button type="button" class="close" data-dismiss="modal">&times;</button>
-												<!--<h5 class="modal-title">Modal Header</h5>-->
-											</div>
-											<div class="modal-body">
-												<img src="img/pro/pADIVINA.jpg" class="img-responsive">
-												<a href="https://varinia.github.io/45_SuperAdivinaQuien/" target="blank"><i class="fa fa-plus-circle fa-2x mg-t-3" aria-hidden="true"></i></a>
-											</div>
-											<div class="modal-footer">
-												<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+							<!--PROYECTO 2-->
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<div>
+									<!-- Trigger the modal with a  -->
+									<a><img src="img/pro/prevFlatness.jpg" alt="proyecto1" data-toggle="modal" data-target="#myModal2" class="previa img-responsive center-block"></a>
+									<!-- Modal -->
+									<div class="modal fade" id="myModal2" role="dialog">
+										<div class="modal-dialog">
+										<!-- Modal content-->
+											<div class="modal-content">
+												<div class="modal-header">
+													<button type="button" class="close" data-dismiss="modal">&times;</button>
+													<!--<h5 class="modal-title">Modal Header</h5>-->
+												</div>
+												<div class="modal-body">
+													<img src="img/pro/pFLATNESS.jpg" class="img-responsive">
+													<a href="https://varinia.github.io/26_Sprint1-Ejercicio1/" target="blank"><i class="fa fa-plus-circle fa-2x mg-t-3" aria-hidden="true"></i></a>
+												</div>
+												<div class="modal-footer">
+													<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+												</div>
 											</div>
 										</div>
 									</div>
 								</div>
+								<h5 class="bg-negro-trans previa center-block">Web Design en Bootstrap</h5>
 							</div>
-							<h5 class="bg-negro-trans bor-r-10 previa center-block">Juego interactivo con Javascript</h5>
-						</div>
-						<!--PROYECTO 5-->
-						<div class="col-xs-12 col-sm-3 mg-b-3">
-							<div>
-								<!-- Trigger the modal with a  -->
-								<a><img src="img/pro/prevTrello.jpg" alt="proyecto1" data-toggle="modal" data-target="#myModal4" class="previa img-responsive bor-r-10 center-block"></a>
-								<!-- Modal -->
-								<div class="modal fade" id="myModal4" role="dialog">
-									<div class="modal-dialog">
-									<!-- Modal content-->
-										<div class="modal-content">
-											<div class="modal-header">
-												<button type="button" class="close" data-dismiss="modal">&times;</button>
-												<!--<h5 class="modal-title">Modal Header</h5>-->
+							<!--PROYECTO 3-->
+							<!--<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+								<div>
+									Trigger the modal with a  
+									<img src="img/pro/prevEco.jpg" alt="proyecto1" data-toggle="modal" data-target="#myModal" class="previa img-responsive center-block">
+								 	Modal 
+									<div class="modal fade" id="myModal" role="dialog">
+										<div class="modal-dialog">
+										<Modal content
+											<div class="modal-content">
+												<div class="modal-header">
+													<button type="button" class="close" data-dismiss="modal">&times;</button>
+													<h5 class="modal-title">Modal Header</h5>
+												</div>
+												<div class="modal-body">
+													<img src="img/pro/pECOMUNIDAD.jpg" class="img-responsive">
+													<a href="https://varinia.github.io/18_ComunidadSostenible/" target="blank"><i class="fa fa-plus-circle fa-2x mg-t-3" aria-hidden="true"></i></a>
+												</div>
+												<div class="modal-footer">
+													<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+												</div>
 											</div>
-											<div class="modal-body">
-												<img src="img/pro/pTRELLO.jpg" class="img-responsive">
-												<a href="https://varinia.github.io/42_APIS/trello%20v2/" target="blank"><i class="fa fa-plus-circle fa-2x mg-t-3" aria-hidden="true"></i></a>
-											</div>
-											<div class="modal-footer">
-												<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+
+										</div>
+									</div>
+
+								</div>
+									<h5 class="bg-negro-trans previa center-block">Web Design en Bootstrap</h5>
+								</div>
+							</div>-->
+							<!--PROYECTO 4-->
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<div>
+									<!-- Trigger the modal with a  -->
+									<a><img src="img/pro/prevAdivina.jpg" alt="proyecto1" data-toggle="modal" data-target="#myModal3" class="previa img-responsive center-block"></a>
+									<!-- Modal -->
+									<div class="modal fade" id="myModal3" role="dialog">
+										<div class="modal-dialog">
+										<!-- Modal content-->
+											<div class="modal-content">
+												<div class="modal-header">
+													<button type="button" class="close" data-dismiss="modal">&times;</button>
+													<!--<h5 class="modal-title">Modal Header</h5>-->
+												</div>
+												<div class="modal-body">
+													<img src="img/pro/pADIVINA.jpg" class="img-responsive">
+													<a href="https://varinia.github.io/45_SuperAdivinaQuien/" target="blank"><i class="fa fa-plus-circle fa-2x mg-t-3" aria-hidden="true"></i></a>
+												</div>
+												<div class="modal-footer">
+													<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+												</div>
 											</div>
 										</div>
 									</div>
 								</div>
+								<h5 class="bg-negro-trans previa center-block">Juego interactivo con Javascript</h5>
 							</div>
-							<h5 class="bg-negro-trans bor-r-10 previa center-block">Listas dinámicas con Javascript</h5>
-						</div>
-					</div>
-				</div>
-			</section>
-			<!--H A B I L I D A D E S-->
-			<section class="bg-img-block bg-banner-portafolio text-lightgray" id="habilidades">
-				<div class="seccion bg-azul68bd pd-1 pd-lr-3">
-					<h3 class="animated animated.hinge zoomIn text-griso"><b>¿Qué puedo hacer por ti? </b><small></small></h3>
-				</div>
-				<div class="text-center pd-lr-12 pd-5">
-					<div class="row">
-						<div class="col-xs-6 col-sm-3">
-							<div class="circulo200">
-								<i class="fa fa-comments fa-3x bounceInUp animated" aria-hidden="true"></i>
-								<h4><b>Tus necesidades</b></h4>
-							</div>
-						</div>
-						<div class="col-xs-6 col-sm-3">
-							<div class="circulo200">
-								<i class="fa fa-cog fa-spin fa-3x fa-fw" aria-hidden="true"></i>
-								<h4><b>Análisis, síntesis</b></h4>
-							</div>
-						</div>
-						<div class="col-xs-6 col-sm-3">
-							<div class="circulo200">
-								<i class="fa fa-lightbulb-o fa-3x bounceInUp animated" aria-hidden="true"></i>
-								<h4><b>Diseño</b></h4>
-							</div>
-						</div>
-						<div class="col-xs-6 col-sm-3">
-							<div class="circulo200">
-								<i class="fa fa-heartbeat fa-3x bounceInUp animated" aria-hidden="true"></i>
-								<h4><b>Desarrollo web inteligente</b></h4>
-							</div>
-						</div>
-					</div>
-					<div class="row">
-						<div class="col-xs-12 col-sm-4">
-							<h3 class="txt-verc8f5 mg-b-7">Hard Skills</h3>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>AutoCad: Avanzado</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>HTML / CSS: Intermedio</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Javascript: Intermedio</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Adobe Photoshop: Intermedio</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Github / Git: Básico</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Frameworks: Básico</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Adobe After effects: Básico</h5>
-							</div>
-						</div>
-						<div class="col-xs-12 col-sm-4">
-							<h3 class="txt-verc8f5 mg-b-7">Soft Skills</h3>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Aprendizaje rápido</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Responsabilidad</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Capacidad de análisis</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Atención a los detalles</h5>
-							</div>
-						</div>
-						<div class="col-xs-12 col-sm-4">
-							<h3 class="txt-verc8f5 mg-b-7">Idiomas</h3>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Español: Materna</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10">
-								<h5>Inglés: <br>
-								<small>Lectura: Avanzado<br>
-								Conversación: Avanzado<br>
-								Escritura: Intermedio</small><br>
-								</h5>
-							</div>
-							<div class="bg-negro-trans bor-r-10 mg-b-7">
-								<h5>Francés: Básico</h5>
+							<!--PROYECTO 5-->
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<div>
+									<!-- Trigger the modal with a  -->
+									<a><img src="img/pro/prevTrello.jpg" alt="proyecto1" data-toggle="modal" data-target="#myModal4" class="previa img-responsive center-block"></a>
+									<!-- Modal -->
+									<div class="modal fade" id="myModal4" role="dialog">
+										<div class="modal-dialog">
+										<!-- Modal content-->
+											<div class="modal-content">
+												<div class="modal-header">
+													<button type="button" class="close" data-dismiss="modal">&times;</button>
+													<!--<h5 class="modal-title">Modal Header</h5>-->
+												</div>
+												<div class="modal-body">
+													<img src="img/pro/pTRELLO.jpg" class="img-responsive">
+													<a href="https://varinia.github.io/42_APIS/trello%20v2/" target="blank"><i class="fa fa-plus-circle fa-2x mg-t-3" aria-hidden="true"></i></a>
+												</div>
+												<div class="modal-footer">
+													<button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+												</div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<h5 class="bg-negro-trans previa center-block">Listas dinámicas con Javascript</h5>
 							</div>
 						</div>
 					</div>
 				</div>
-			</section>
-			<!--C O N T A C T A M E-->
-			<section class="bg-img-block bg-banner-contáctame text-lightgray" id="contactame">
-				<div class="seccion bg-azul68bd pd-1 pd-lr-3">
-					<h3 class="animated animated.hinge zoomIn text-griso"><b>¡Contáctame! </b><small>Intercambiemos ideas y colaboremos...</small></h3>
+			</div><!--cont f-->
+		</section>
+		<!--H A B I L I D A D E S-->
+		<section id="habilidades">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<div class="seccion bg-azul68bd pd-l-3">
+							<h3 class="   text-griso"><b>¿Qué puedo hacer por ti?</b></h3>
+							<h5>Desarrollar soluciones...</h5>
+						</div>
+					</div>
+					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 nueve">
+						<div class="row">
+							<div class="col-xs-12 col-sm-12">
+								<img src="img/ciclo.png" class="img-responsive center-block mg-b-5">
+								<div class="col-xs-offset-3 col-xs-6 bg-negro-trans mg-b-7">
+									<h5 class="txt-ver68ea99 text-center">Las buenas ideas están en constante desarrollo: ciclos de retoalimentación, análisis y direccionamiento de las reflexiones las hacen vez mejores. </h5>
+								</div>
+							</div>	
+						</div>
+						
+					</div>
 				</div>
-				<div class="pd-lr-12 pd-1">
-					<div class="row">
-						<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
-							<i class="fa fa-map-marker txt-azul68bd fa-4x animated swing animated-infinite" aria-hidden="true"></i>
-							<h4 class="bg-negro-trans bor-r-10 text-center mg-b-5"><b>Resido en la Ciudad de México, <br>disposición a viajar.</b></h4>
-
-							<i class="fa fa-phone txt-azul68bd fa-3x animated swing animated-infinite" aria-hidden="true"></i>
-							<h4 class="bg-negro-trans bor-r-10 text-center mg-b-5"><b>(55) 65.88.15.29</b></h4>
-
-							<i class="fa fa-paper-plane txt-azul68bd fa-3x animated swing animated-infinite" aria-hidden="true"></i>
-							<h4 class="bg-negro-trans bor-r-10 text-center mg-b-5"><b>varinia.ep@gmail.com</b></h4>
-
-							<i class="fa fa-linkedin txt-azul68bd fa-3x animated swing animated-infinite" aria-hidden="true"></i>
-							<h4 class="bg-negro-trans bor-r-10 text-center mg-b-5"><b><a href="https://mx.linkedin.com/in/vari-nia" target="blank">Vari Nia</a></b></h4>
-
-							<i class="fa fa-file-text txt-azul68bd fa-3x animated swing animated-infinite" aria-hidden="true"></i>
-							<h4 class="bg-negro-trans bor-r-10 text-center mg-b-5"><b><a href="../docs/cv_varinia ep.pdf" download="cv_varinia">Descargar cv</a></b></h4>
+			</div><!--cont f-->
+		</section>
+		<!--C O N T A C T A M E-->
+		<section id="contactame" class="bg-img-block bg-banner-contáctame">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+						<div class="seccion bg-azul68bd pd-l-3">
+							<h3 class="text-griso"><b>¡Contáctame!</b></h3>
+							<h5>Intercambiemos ideas y colaboremos...</h5>
+						</div>		
+					</div>
+					<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 nueve">
+						<div class="row text-lightgray">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<i class="fa fa-map-marker txt-azul68bd fa-3x swing animated animated-infinite" aria-hidden="true"></i>
+								<h4 class="bg-negro-trans text-center pd-1 mg-b-5"><b>Resido en la Ciudad de México, disposición a viajar.</b></h4>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<i class="fa fa-paper-plane txt-azul68bd fa-3x swing animated animated-infinite" aria-hidden="true"></i>
+								<h4 class="bg-negro-trans text-center pd-1 mg-b-5"><b>varinia.ep@gmail.com</b></h4>
+							</div>
+						</div>
+						<div class="row text-lightgray">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<i class="fa fa-phone txt-azul68bd fa-3x swing animated animated-infinite" aria-hidden="true"></i>
+								<h4 class="bg-negro-trans text-center pd-1 mg-b-5"><b>(55) 65.88.15.29</b></h4>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<i class="fa fa-whatsapp txt-azul68bd fa-3x swing animated animated-infinite" aria-hidden="true"></i>
+								<i class="fa fa-telegram txt-azul68bd fa-3x swing animated animated-infinite" aria-hidden="true"></i>
+								<h4 class="bg-negro-trans text-center pd-1 mg-b-5"><b>(55) 31.54.28.19</b></h4>
+							</div>
+						</div>
+						<div class="row text-lightgray">
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<a href="https://mx.linkedin.com/in/vari-nia" target="blank"><i class="fa fa-linkedin txt-azul68bd fa-3x swing animated animated-infinite" aria-hidden="true"></i></a>
+								<h4 class="bg-negro-trans text-center pd-1 mg-b-5"><b><a href="https://mx.linkedin.com/in/vari-nia" target="blank">Vari Nia</a></b></h4>
+							</div>
+							<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+								<a href="../docs/cv_varinia_ep.pdf" download="cv_varinia_ep" target="_blank"><i class="fa fa-file-text txt-azul68bd fa-3x swing animated animated-infinite" aria-hidden="true"></i></a>
+								<h4 class="bg-negro-trans text-center pd-1 mg-b-5"><b><a href="../docs/cv_varinia_ep.pdf" download="cv_varinia_ep">Descargar CV</a></b></h4>
+							</div>
 						</div>
 					</div>
 				</div>
-			</section>
-			<footer class="bg-azul68bd pd-1 text-center">
-				<h5 class="text-lightgray"><b>¡Vuelve pronto! </b><small><i class="fa fa-creative-commons" aria-hidden="true"></i> - Todas las fotos por: <span class="txt-verc8f5">vaRi</span> Nia - 2016 - -  Desarrollado con <span class="txt-mora">Bootstrap</span></small></h5>
-			</footer>
-		<!-- BOOTSTRAP JAVASCRIPT -->
-		<script type="text/javascript" src="js/jquery-3.1.0.min.js"></script><!--referencias a js-->
+			</div><!--container-f-->
+		</section>
+		<!--F O O T E R -->
+		<footer class="bg-negro-trans pd-1 text-center">
+			<div class="container-fluid">
+				<h5 class="text-gris"><b>¡Vuelve pronto! </b><i class="fa fa-creative-commons" aria-hidden="true"></i> 2016 ... Desarrollado por <span class="text-1p5"><b>vaRi_</span></b> con <span class="bg-mora">Bootstrap</span></h5>
+			</div>
+		</footer>
+		<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 		<!--<script type="text/javascript" src="js/hamburgers.js"></script>-->
 		<!-- jQuery library (served from Google) -->

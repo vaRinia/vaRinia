@@ -1,16 +1,8 @@
-/*paleta 2
-color: #C8F57A; verde claro
-color: #68BDEA; azul claro
-color: #014c45; azul oscuro
-*/
-.txt-verc8f5 {
-	color: #A6E637;
-}
+.txt-ver68ea99 {
+	color: #68ea99;
+} /*104,234,153*/
 .txt-azul68bd {
 	color: #68BDEA; 
-}
-.bg-vera6E6 {
-	background-color: #A6E637;
 }
 .bg-azul68bd {
 	background-color: #68BDEA; 
@@ -18,25 +10,28 @@ color: #014c45; azul oscuro
 /*navegador*/
 nav {
 	/*font-family: 'Roboto', sans-serif !important;*/
-	right: 15px !important;
-	left: 15px !important;
+/*	right: 15px !important;
+	left: 15px !important;*/
 	border-bottom: none !important;
 	background-color: rgba(0,0,0,.8) !important;
 	padding-left: 20px;
 	padding-right: 20px;
 	
 }
-/*.navbar-default {
-	background-color: rgb(36,176,103) !important;	
-}*/
 nav a:hover{
-	color: #A6E637 !important;
+	color: #68ea99 !important;
 	font-size: 2.5em;
+}
+#logo img:hover{
+	background-color: rgba(104,234,153,.5) !important;
+	width: 98px;
+}
+.boton, .botonc {
+	color: lightgrey !important;
 }
 h1 {
 	
 	font-family: 'Raleway', sans-serif !important;
-	font-size: 16rem !important;
 	/*
 	font-family: 'Anton', sans-serif;
 	font-family: 'Raleway', sans-serif;
@@ -44,15 +39,31 @@ h1 {
 	font-family: 'Bungee Shade', cursive;
 	*/
 }
+section {
+	margin-bottom: 13%;
+}
+#contactame {
+	margin-bottom: 0px !important;
+}
 section a {
-	color:  #A6E637 !important;
+	color:  lightgrey !important;
 }
 section a:hover{
 	text-decoration: none;
 	font-size: 1.5em;
+	color: #68ea99 !important;
 }
-.mg-nav {
+a>i:hover{
+	color: #68ea99;
+}
+.seccion h3 {
+	margin-top: 0px;
+}
+/*.mg-nav {
 	margin-top: 47px;
+}*/
+i {
+	margin-right: 15px;
 }
 .circulo200 {
 	width: 160px;
@@ -62,11 +73,22 @@ section a:hover{
 	margin: auto;
 	padding-top: 15%;
 	color: rgb(41, 40, 39);
+	text-align: center;
 }
 
 /*fondos*/
 .bg-banner-inicio {
-	background-image: url("../img/inicio.jpg");
+    /* The image used */
+    background-image: url("../img/inicio.jpg");
+
+    /* Set a specific height */
+    min-height: 650px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .bg-banner-sobremi {
 	background-image: url("../img/sobremi.jpg");
@@ -80,7 +102,10 @@ section a:hover{
 	background-position: center bottom !important;
 }
 .bg-banner-contáctame {
-	background-image: url("../img/contactame.jpg");
+	background-image: url("../img/portafolio.jpg");
+    min-height: 535px; 
+    background-attachment: fixed;
+    padding-top: 5%;
 }
 a:hover {
 cursor: pointer;
@@ -88,10 +113,13 @@ color: green;
 text-decoration:none;
 }
 /* footer */
-.txt-mora {
-	color: #594081;
+.bg-mora {
+	background-color: #594081;
 }
-
+.nueve {
+	padding-right: 12%;
+	padding-left: 12%;
+}
 /*plugins*/
 
 /*MEDIA QUERIES*/
@@ -106,6 +134,9 @@ text-decoration:none;
 	.seccion{
 		padding: 2px;
 	}
+	.seccion h3 {
+		margin-top: 0px;
+	}
 	.circulo200 {
 		width: 80px;
 		height: 80px;
@@ -116,8 +147,14 @@ text-decoration:none;
 	.circulo200>h4 {
 		font-size: 1.1rem;
 	}
-	#contactame h3 {
-		font-size: 1.7rem;	
+	h3 {
+		font-size: 20px;
+	}
+	h4 {
+		font-size: 15px;
+	}
+	#inicio {
+		padding-top: 100px;
 	}
 }
 @media (min-width: 251px) and (max-width: 350px) { 
@@ -131,6 +168,20 @@ text-decoration:none;
 	/*.circulo200>h4 {
 		font-size: 1.2rem;
 	}*/
+	.seccion h3 {
+		margin-top: 0px;
+	}
+	#img-perfil {
+		width: 65%;
+		margin-bottom: 30px;
+		margin-top: 15px;
+	}
+	h3 {
+		font-size: 20px;
+	}
+	h4 {
+		font-size: 15px;
+	}
 }
 @media (min-width: 351px) and (max-width: 768px) { 
 	.circulo200 {
@@ -143,9 +194,36 @@ text-decoration:none;
 	/*.circulo200>h4 {
 		font-size: 1.3rem;
 	}*/
+	.seccion h3 {
+		margin-top: 0px;
+	}
+	#img-perfil {
+		width: 65%;
+		margin-bottom: 30px;
+		margin-top: 15px;
+	}
+	h3 {
+		font-size: 20px;
+	}
+	h4 {
+		font-size: 15px;
+	}
 }
 @media (min-width: 251px) and (max-width: 768px){ 
 	.previa {
 		width: 80% !important;
+	}
+	.nueve {
+	padding-right: 6%;
+	padding-left: 6%;
+	}
+	#inicio {
+		padding-top: 100px;
+	}
+}
+@media (min-width: 769px) and (max-width: 992px) {
+	.nueve {
+	padding-right: 9%;
+	padding-left: 9%;
 	}
 }
