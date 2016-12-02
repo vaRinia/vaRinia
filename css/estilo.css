@@ -8,7 +8,7 @@ font-family: 'Ubuntu', sans-serif !important;
 	color: #68BDEA; 
 }
 .bg-azul68bd {
-	background-color: #68BDEA; 
+	background-color: #68BDEA;
 }
 /*navegador*/
 nav {
@@ -59,17 +59,6 @@ a>i:hover{
 i {
 	margin-right: 15px;
 }
-.circulo200 {
-	width: 160px;
-	height: 160px;
-	border-radius: 100%;
-	background-color: rgba(104, 189, 234, 0.7);
-	margin: auto;
-	padding-top: 15%;
-	color: rgb(41, 40, 39);
-	text-align: center;
-}
-
 /*fondos*/
 .bg-banner-inicio {
     /* The image used */
@@ -131,16 +120,6 @@ text-decoration:none;
 	.seccion h3 {
 		margin-top: 0px;
 	}
-	.circulo200 {
-		width: 80px;
-		height: 80px;
-		margin-top: 10px;
-		padding-top: 15%;
-		font-size: .5em;
-	}
-	.circulo200>h4 {
-		font-size: 1.1rem;
-	}
 	h3 {
 		font-size: 20px;
 	}
@@ -152,16 +131,6 @@ text-decoration:none;
 	}
 }
 @media (min-width: 251px) and (max-width: 350px) { 
-	.circulo200 {
-		width: 100px;
-		height: 100px;
-		margin-top: 10px;
-		padding-top: 15%;
-		font-size: .7em;
-	}
-	/*.circulo200>h4 {
-		font-size: 1.2rem;
-	}*/
 	.seccion h3 {
 		margin-top: 0px;
 	}
@@ -178,16 +147,6 @@ text-decoration:none;
 	}
 }
 @media (min-width: 351px) and (max-width: 768px) { 
-	.circulo200 {
-		width: 140px;
-		height: 140px;
-		margin-top: 10px;
-		padding-top: 18%;
-		font-size: 0.9em;
-	}
-	/*.circulo200>h4 {
-		font-size: 1.3rem;
-	}*/
 	.seccion h3 {
 		margin-top: 0px;
 	}
@@ -202,6 +161,7 @@ text-decoration:none;
 	h4 {
 		font-size: 15px;
 	}
+
 }
 @media (min-width: 251px) and (max-width: 768px){ 
 	.previa {
@@ -213,6 +173,12 @@ text-decoration:none;
 	}
 	#inicio {
 		padding-top: 100px;
+	}
+	section {
+		margin-bottom: 7%;
+	}
+	footer  h5, footer span, footer i, footer b {
+		font-size: 10px;
 	}
 }
 @media (min-width: 769px) and (max-width: 992px) {
