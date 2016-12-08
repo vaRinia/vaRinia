@@ -24,7 +24,10 @@ nav {
 }
 nav a:hover{
 	color: #68ea99 !important;
-	font-size: 2.5em;
+	font-size: 2em;
+}
+.navbar-toggle {
+	background-color: transparent !important;
 }
 #logo img:hover{
 	background-color: rgba(104,234,153,.5) !important;
@@ -103,7 +106,6 @@ text-decoration:none;
 	padding-right: 12%;
 	padding-left: 12%;
 }
-/*plugins*/
 
 /*MEDIA QUERIES*/
 @media (max-width: 250px) { 
@@ -146,7 +148,7 @@ text-decoration:none;
 		font-size: 15px;
 	}
 }
-@media (min-width: 351px) and (max-width: 768px) { 
+@media (min-width: 351px) and (max-width: 767px) { 
 	.seccion h3 {
 		margin-top: 0px;
 	}
@@ -163,7 +165,7 @@ text-decoration:none;
 	}
 
 }
-@media (min-width: 251px) and (max-width: 768px){ 
+@media (min-width: 251px) and (max-width: 767px){ 
 	.previa {
 		width: 80% !important;
 	}
@@ -181,9 +183,22 @@ text-decoration:none;
 		font-size: 10px;
 	}
 }
-@media (min-width: 769px) and (max-width: 992px) {
+@media (min-width: 768px) and (max-width: 992px) {
 	.nueve {
 	padding-right: 9%;
 	padding-left: 9%;
 	}
+	h4 {
+		font-size: 18px;
+	}
+}
+@media (min-width: 768px) {
+  .hamburger {
+    display: none !important;
+  }
+}
+@media (max-width: 769px) {
+  nav a{
+	font-size: 1.3em;
+}
 }
